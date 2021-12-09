@@ -3,6 +3,7 @@ I'm a beginner programmer and focused on web development. My primary motivation 
 
 ## Nowadays 📅
 - 🐘 Studying PHP 🐘
+- 🐍 Studying Python 🐍
 - 🧑🏽‍🎨 Studying Web Design 🧑🏽‍🎨
 - 🧑🏽‍💻 Doing some small projects in js 🧑🏽‍💻
 
