@@ -5,7 +5,8 @@ I'm a beginner programmer focused on web development. My primary motivation to s
 - 🐘 Studying PHP 🐘
 - 🐍 Studying Python 🐍
 - 🧑🏽‍🎨 Studying Web Design 🧑🏽‍🎨
-- 🧑🏽‍💻 Doing some small projects in js 🧑🏽‍💻
+- 🧑🏽‍💻 Doing some small projects 🧑🏽‍💻
+- 🤖 Looking for friends 🤖
 
 ## I'm everywhere! 🌎
 - I'm showing my learning in <a href="https://dev.to/vinic">Dev.to</a>
