@@ -14,7 +14,7 @@ I'm a beginner programmer focused on web development. My primary motivation to s
 Full list:
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
-![Typescript](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Typescript](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
 ![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
