@@ -5,7 +5,7 @@ I'm a beginner programmer focused on web development. My primary motivation to s
 ## Nowadays 📅
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusIth&layout=compact&langs_count=7&theme=vue&hide_border=true"/>
   
-- 🐘 Studying PHP 🐘
+- 🐯 Studying NestJs 🐯
 - 🐍 Studying Python 🐍
 - 🧑🏽‍🎨 Studying Web Design 🧑🏽‍🎨
 - 🧑🏽‍💻 Doing some small projects 🧑🏽‍💻
@@ -14,7 +14,8 @@ I'm a beginner programmer focused on web development. My primary motivation to s
 Full list:
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
-![Typescript](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+![Nest](https://img.shields.io/badge/Nest-black?style=for-the-badge&logo=nestjs&logoColor=e0234e)
 ![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
