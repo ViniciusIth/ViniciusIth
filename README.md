@@ -3,8 +3,6 @@
 I'm a beginner programmer focused on web development. My primary motivation to start programming was an RPG I participated on discord early on this pandemic, during the campaign I noticed that the general use bots weren't everything I expected, so I decided to build my own bot on python, using the now archived discord.py. After some weeks struggling to write some code with zero knowledge, I finally decided to read the documentation and this is when I truly fell in love with Python. Currently, I'm working on another project related to RPGs, willing to find a community to discuss.
 
 ## Nowadays 📅
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusIth&layout=compact&langs_count=7&theme=vue&hide_border=true"/>
-  
 - 🐯 Studying NestJs 🐯
 - 🐍 Studying Python 🐍
 - 🧑🏽‍🎨 Studying Web Design 🧑🏽‍🎨
