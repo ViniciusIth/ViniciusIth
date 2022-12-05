@@ -36,8 +36,6 @@ Full list:
 - A complete ghost on <a href="https://twitter.com/viniciusithalo">Twitter</a>
 - Somehow existing in <a href="https://www.linkedin.com/in/vinithalo">LinkedIn</a>
 
-## Looking for my first job
-
 <!--
 **ViniciusIth/ViniciusIth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
