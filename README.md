@@ -4,7 +4,7 @@ I'm a beginner programmer focused on web development. My primary motivation to s
 
 ## Nowadays 📅
 - 🐈‍⬛ Studying NestJs 🐈‍⬛
-- 🐍 Studying Python 🐍
+- 🦀 Studying Rust 🦀
 - 🧑🏽‍🎨 Studying Web Design 🧑🏽‍🎨
 - 🧑🏽‍💻 Doing some small projects 🧑🏽‍💻
 - 🤖 Looking for friends 🤖
