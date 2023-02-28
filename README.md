@@ -1,6 +1,6 @@
 # Hey, Vinícius here ✌🏽
 
-Hi there, I'm a web developer. I actually started programming during the early days of the COVID-19 pandemic when I participated on a DnD campaign on Discord. I quickly realized that the bots available at the time weren't meeting my expectations, so I set out to create my own bot using Python and ~~the now archived~~ discord.py library.
+Hi there, I'm a backend developer. I actually started programming during the early days of the COVID-19 pandemic when I participated on a DnD campaign on Discord. I quickly realized that the bots available at the time weren't meeting my expectations, so I set out to create my own bot using Python and ~~the now archived~~ discord.py library.
 
 Although I initially struggled with writing code from scratch (and nearly threw my computer out the window a few times), I eventually dove into the documentation and discovered a newfound love for programming.
 
@@ -10,7 +10,6 @@ Currently, I'm working on a variety of new projects and am excited to connect wi
 
 - 🐈‍⬛ Studying NestJs 🐈‍⬛
 - 🦀 Studying Rust 🦀
-- 🧑🏽‍🎨 Studying Web Design 🧑🏽‍🎨
 - 🧑🏽‍💻 Doing some small projects 🧑🏽‍💻
 - 🤖 Looking for friends 🤖
 
