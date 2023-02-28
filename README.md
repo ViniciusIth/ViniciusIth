@@ -31,7 +31,7 @@ My favorite technologies
 
 </div>
 
-<br />
+<br /><br />
 
 <div>
 
