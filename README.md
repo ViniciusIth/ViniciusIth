@@ -50,7 +50,6 @@ Currently, I'm working on a variety of new projects and am excited to connect wi
 ## I'm everywhere! 🌎
 
 - I'm showing my learning in <a href="https://dev.to/vinic">Dev.to</a>
-- A complete ghost on <a href="https://twitter.com/viniciusithalo">Twitter</a>
 - Somehow existing in <a href="https://www.linkedin.com/in/vinithalo">LinkedIn</a>
 
 <!--
