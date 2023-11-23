@@ -47,10 +47,12 @@ Currently, I'm working on a variety of new projects and am excited to connect wi
 <br />
 <br />
 
+<!--
 ## I'm everywhere! 🌎
 
 - I'm showing my learning in <a href="https://dev.to/vinic">Dev.to</a>
 - Somehow existing in <a href="https://www.linkedin.com/in/vinithalo">LinkedIn</a>
+-->
 
 <!--
 I wasn't sure where to fit it, but except for a few icons that I made myself, I don't own any of this stuff. Actually found them at Amit Kumar github profile. Go there take a look!
